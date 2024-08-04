@@ -35,11 +35,11 @@ plugins:
 #
 exclude:
     - Session.vim
+    - Gemfile
+    - Gemfile.lock
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
