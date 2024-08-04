@@ -19,11 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Jason Nguyen
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: ""
 
 # Build settings
 theme:
 plugins:
+
+permalink: /:year/:month/:day/:title:output_ext
 
 # Exclude from processing.
 # The following items will not be processed, by default.
